@@ -2,6 +2,11 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
+一些作品：
 
-- 🔭 I’m currently working on [Darabonba](https://github.com/aliyun/darabonba).
+Node.js 领域：
+- 书：《深入浅出 Node.js》
+- 代表产品：Alinode & Node.js 性能平台
+
+API 领域：
+- 作品：[Darabonba](https://github.com/aliyun/darabonba)
